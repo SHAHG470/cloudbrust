@@ -1,2 +1,4 @@
 sklearn
 streamlit
+pandas
+numpy
