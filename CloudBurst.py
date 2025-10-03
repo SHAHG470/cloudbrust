@@ -1,7 +1,7 @@
 import streamlit 
-import scikit-learn sk
-import pandas pd
-import numpy np
+import sklearn
+import pandas 
+import numpy 
 
 
 page = """
