@@ -1,5 +1,5 @@
 import streamlit 
-import sk-learn
+import sklearn
 import pandas 
 import numpy 
 
