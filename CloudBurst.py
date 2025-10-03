@@ -1,6 +1,8 @@
-import streamlit as st
-import pickle
-import sklearn
+import streamlit
+import scikit-learn
+import pandas
+import numpy
+
 
 page = """
 <style>
